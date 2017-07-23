@@ -1,6 +1,6 @@
 # ailereisi
 Home spending software (Ev harcamaları yazılımı)
-Multilanguage - Turkis, English (Çoklu dil Türkçe, İngilizce) (Pek yakında :) )
+Multilanguage - Turkis, English (Çoklu dil Türkçe, İngilizce) 
 
 Bu proje açık kaynak (Open Source) ve GPL lisanları kapsamında yayınlanmaktadır. Bu haliyle para karşılığı satılamaz.
 
